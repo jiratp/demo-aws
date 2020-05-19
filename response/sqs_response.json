@@ -1,0 +1,14 @@
+{
+    "ResponseMetadata": {
+        "RequestId": "b32eb77b-b87c-5dad-84eb-e0467d192ad3"
+    },
+    "Messages": [{
+        "MessageId": "65871940-8fa2-4858-b473-af809afdd99b",
+        "ReceiptHandle": "AQEBG1SeSbom7buu/N285ZMH7PWSbE3s18W6VzAMZ1tUSb3HNTwKz093Sziv5w7v5/oZrkqSIo3JKagCfXBMrBoIAr6XaT6oKOgd0jlb2fHh9ilc4+403AlTpFq45nvQ00Wh1M/GS1Bwk+RUbWnXQubXhQv9bUgfJWex3++L8Os3zvpY1ppH3vTvNliMvlAUvJqkQjhKZt91iAukZx4r5Xrmfyav/7TtqoE/7YvKUB6CrFhSaD9p3VmNfJG5M1TepV/c2TISAJmzYlybXIYhDA7M3lsaWQ07tVhcMfakd38XRbwLYJ/ZCAQFSgSTXdKHVIb7KvQsACLNZe8BafyvzFmqJG8v2a5WLHrpaNzvPrgsY/1Q9BREcQMOpAwrUWNLny+zTuv83Nb0y3CzMKc7Sb4N/nbsKTJloO0rtjdYZDvzSGNW2W3aSk7JNiYYkvNCoEzl",
+        "MD5OfBody": "30c789ece32b53623f16c1e222878f8b",
+        "Body": "{\n  \"Type\" : \"Notification\",\n  \"MessageId\" : \"4af8db1a-e33e-55db-a578-8c27208ba0e2\",\n  \"TopicArn\" : \"arn:aws:sns:ap-southeast-1:068950053441:ccs-mdm-dev-customer-boardcast-topic\",\n  \"Message\" : \"xxxxx\",\n  \"Timestamp\" : \"2020-05-19T11:22:29.766Z\",\n  \"SignatureVersion\" : \"1\",\n  \"Signature\" : \"puaVAJ2PgRxeRPdN3DvS/pBfXi/zL3/9yFYRlSwrr7y7SwHdNu+AvXuawu4+x9cv3Xq/e7RhyiDutznr+eiCWmaC4lcPoieGtXSZYwNibGivGo78XT9yIXAhPQnlM2KnYi5KKmAmyPRWU27qJENlj5aZjGLtnOTZyZbS7YUweKFGA/E04biCR2u6WnTyWXYeoa5CfOxg4pjsX8HMo9ZXTBfuzjGZ8/9Wf9+io2ieHYDD2rIX87UjZiYmuwTizTM1SmOaOrzeSJvOkMetb/iXlEmsaupBf8RH8LoGAcCtr/Kta95tc+n3UXWLVJuehv4PoUmwdWmuuk4dv5VEqLPHkg==\",\n  \"SigningCertURL\" : \"https://sns.ap-southeast-1.amazonaws.com/SimpleNotificationService-a86cb10b4e1f29c941702d737128f7b6.pem\",\n  \"UnsubscribeURL\" : \"https://sns.ap-southeast-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:ap-southeast-1:068950053441:ccs-mdm-dev-customer-boardcast-topic:5236a60c-36e2-40ae-ac95-921a6ebbaddf\"\n}",
+        "Attributes": {
+            "SentTimestamp": "1589887349844"
+        }
+    }]
+}
