@@ -1,6 +1,6 @@
 # demo-aws
 
-##### AWS SQS [.ENV]
+### AWS SQS [.ENV]
 
 AWS_ACCESSKEY= Input from AWS IAM
 
@@ -10,7 +10,7 @@ SQS_REGIONS=
 
 SQS_ENDPOINT=
 
-##### AWS SNS [.ENV]
+### AWS SNS [.ENV]
 
 AWS_ACCESSKEY= Input from AWS IAM
 
